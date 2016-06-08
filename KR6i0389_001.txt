@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:52.056227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:26
 #+TITLE: 佛說造塔功德經
 #+PROPERTY: CBETA_ID T16n0699
 #+PROPERTY: ID KR6i0389
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 699
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0389_T_000-0800c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0389_T_001-0800c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.699¶
+No. 699¶
 
-造塔功德經序
-:PROPERTIES:
-:head: 造塔功德經序
-:END:
-¶
+* 造塔功德經序¶
 ¶
 
 夫塔者，梵之稱，譯者謂之墳。或方或圓，厥¶
@@ -42,11 +38,10 @@ No.699¶
 法寶周給大千，俾彼慧燈照融三界。云爾。¶
 ¶
 ¶
-
- 《佛說造塔功德經》¶
+《佛說造塔功德經》¶
 ¶
 大唐中天竺三藏法師¶
-地婆訶羅唐言日照譯¶
+地婆訶羅唐言日照＋（奉勅）【三】【宮】照＋（奉勅）【宋】【元】【明】【宮】照照譯¶
 
 如是我聞：
 
@@ -88,9 +83,9 @@ No.699¶
 「　「諸法因緣生，
 　我說是因緣，¶
 　因緣盡故滅，
-　我作如是說。
+　我作如是說。」
 #+END_VERSE
-」¶
+¶
 
 「善男子！如是偈義名佛法身，汝當書寫置彼¶
 塔內。何以故？一切因緣及所生法，性空寂故，¶
